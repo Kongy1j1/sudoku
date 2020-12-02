@@ -143,6 +143,11 @@ body {
   color:#ecf0f1;
 }
 
+.color_blind {
+  background:#7F8C8D;
+  color:#ecf0f1;
+}
+
 /* console */
 .board_console_container, .gameover_container {
     background-color: rgba(127, 140, 141, 0.7);
@@ -256,8 +261,7 @@ body {
 #sudoku_menu ul li a {
   text-align:center;
   padding: 15px 20px;
-  font-size: 28px;
-  font-weight: bold;
+  font-size: 25px;
   color: white;
   text-decoration: none;
   display: block;
@@ -266,7 +270,7 @@ body {
 
 #sudoku_menu.open-sidebar {
   left:0px;
-  width:30%;
+  width:20%;
   background-color: lightgrey;
   border-radius: 10px;
   border-color: black;
