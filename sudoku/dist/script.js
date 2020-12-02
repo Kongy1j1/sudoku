@@ -237,7 +237,7 @@ Sudoku.prototype.drawBoard = function(){
         $('<div></div>').addClass('num').text(i).appendTo(sudoku_console);
     }
     $('<div></div>').addClass('num remove').text('DEL').appendTo(sudoku_console);
-    //$('<div></div>').addClass('num note').text('?').appendTo(sudoku_console);
+    $('<div></div>').addClass('num note').text('?').appendTo(sudoku_console);
 
     //draw gameover
     var sudoku_gameover = $('<div class="gameover_container"><div class="gameover">Congratulation! <button class="restart">Play Again</button></div></div>');
