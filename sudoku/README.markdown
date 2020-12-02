@@ -1,5 +1,18 @@
-# SUDOKU
+# Eye_gaze Friendly SUDOKU
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/cristiancanea/pen/GhLpI](https://codepen.io/cristiancanea/pen/GhLpI).
+By Mingrui Huang & Vincent Wang
 
-A common sudoku game.
+CSCI 4849 Project 3
+
+Modifications: 
+
+- Change in Colors: make the colors have more contrast than before so that people may identify the buttons, numbers, blocks and correctness on the sudoku board.
+
+- Change in Sidebar: the side bar is a bit too big in the beginning for a "side bar".
+
+
+Challenge: We tried to chagne add a solve button but it did not work well.
+
+
+Source code from Codepen, URL: [https://codepen.io/cristiancanea/pen/GhLpI](https://codepen.io/cristiancanea/pen/GhLpI).
+
