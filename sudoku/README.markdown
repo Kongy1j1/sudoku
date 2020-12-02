@@ -13,6 +13,5 @@ Change in Sidebar: the side bar is a bit too big in the beginning for a "side ba
 
 Challenge: We tried to chagne add a solve button but it did not work well.
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/cristiancanea/pen/GhLpI](https://codepen.io/cristiancanea/pen/GhLpI).
+Source code from Codepen, URL: [https://codepen.io/cristiancanea/pen/GhLpI](https://codepen.io/cristiancanea/pen/GhLpI).
 
-A common sudoku game.
