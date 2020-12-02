@@ -11,7 +11,7 @@ Change in Colors: make the colors have more contrast than before so that people 
 Change in Sidebar: the side bar is a bit too big in the beginning for a "side bar".
 
 
-Challenges: We tried to chagne add a solve button but it did not work well.
+Challenge: We tried to chagne add a solve button but it did not work well.
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/cristiancanea/pen/GhLpI](https://codepen.io/cristiancanea/pen/GhLpI).
 
