@@ -10,6 +10,7 @@ Modifications:
 
 - Change in Sidebar: the side bar is a bit too big in the beginning for a "side bar".
 
+- Color Blind Modes: Red/Green and Yellow/Blue color blind modes are implemented for the user to swtich from the original
 
 Challenge: We tried to chagne add a solve button but it did not work well.
 
